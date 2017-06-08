@@ -10,9 +10,9 @@ public class MainDemo {
         System.out.print("22222");
 
         System.out.print("222221234");
+        System.out.print("111cccc");
+
+        System.out.print("22222dddd");
     }
-
-
-
 
 }
