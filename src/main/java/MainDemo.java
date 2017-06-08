@@ -8,6 +8,11 @@ public class MainDemo {
         System.out.print("11121aaaa");
         System.out.print("11121bbbb");
         System.out.print("22222");
+
+        System.out.print("222221234");
     }
+
+
+
 
 }
